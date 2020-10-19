@@ -1,0 +1,118 @@
+.breadcrumb {
+  padding: none;
+  background-color: #2d6ac5 !important;
+}
+.fa-home,
+.fa-facebook {
+  color: white !important;
+  margin: none !important;
+}
+.fa-envelope {
+  color: rgb(243, 247, 11) !important;
+  margin: none !important;
+}
+.fa-phone {
+  color: rgb(50, 247, 11) !important;
+  margin: none !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+.container-1 {
+  background-image: url("images/bg3.jpg");
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+}
+
+.center-text {
+  color: white;
+  position: center;
+  padding-top: 130px;
+  font-family: Comic Sans MS;
+  font-weight: bolder;
+  line-height: 0.7;
+}
+
+#col-1 {
+  height: 300px;
+  background-color: rgb(224, 187, 86);
+  padding-left: 50px;
+  padding-top: 20px;
+  font-style: cursive;
+  font-weight: 600px;
+  font-family: Comic Sans MS;
+  color: white;
+}
+#col-2 {
+  height: 300px;
+  background-color: rgb(83, 197, 163);
+  padding-left: 50px;
+  padding-top: 20px;
+  font-style: cursive;
+  font-weight: 600px;
+  font-family: Comic Sans MS;
+  color: white;
+}
+#col-3 {
+  height: 300px;
+  background-color: rgb(155, 34, 179);
+  padding-left: 50px;
+  padding-top: 20px;
+  font-style: cursive;
+  font-weight: 600px;
+  font-family: Comic Sans MS;
+  color: white;
+}
+#col-4 {
+  height: 300px;
+  background-color: rgb(179, 34, 94);
+  font-style: cursive;
+  padding-left: 50px;
+  padding-top: 20px;
+  font-style: cursive;
+  font-weight: 600px;
+  font-family: Comic Sans MS;
+  color: white;
+}
+#aim {
+  text-decoration: currentColor;
+  color: purple;
+  padding-top: 20px;
+}
+#aim-1 {
+  text-decoration: currentColor;
+  color: rgb(23, 0, 128);
+  padding-top: 20px;
+}
+#aim-2 {
+  text-decoration: currentColor;
+  color: rgb(128, 0, 0);
+  padding-top: 20px;
+}
+#aim-3 {
+  text-decoration: currentColor;
+  color: rgb(15, 128, 0);
+  padding-top: 20px;
+}
+svg {
+  display: block;
+  margin: -45px auto;
+  padding: white;
+}
